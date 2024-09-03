@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         sans: ["Roboto", "sans-serif"],
+        title: ["Kognigear"],
       },
       gridTemplateColumns: {
         "70/30": "70% 28%",
