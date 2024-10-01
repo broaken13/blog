@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="bg-teal-500 text-neutral-200 px-4 py-4 flex justify-between content-center">
+    <header className="border-b border-neutral-200 px-4 py-4 flex justify-between content-center">
       <h1 className="text-5xl font-title">Bryson Oakley</h1>
       <div className="flex content-center">
         <a
