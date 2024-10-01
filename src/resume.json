@@ -1,0 +1,68 @@
+{
+    "education": {
+        "school": "Weber State University",
+        "degree": "Bachelor of Science",
+        "study": "Computer Science",
+        "graduationDate": "December 2016"
+    },
+    "jobHistory": [
+        {
+            "title": "Software Quality Assurance Engineer",
+            "company": "Cricut",
+            "startDate": "April 2020",
+            "endDate": "February 2024",
+            "responsibilities": [
+                "Write automated tests for backend REST services",
+                "Write automated tests for frontend electron app using Selenium and Typescript",
+                "Backend tests written in BDD testing framework SpecFlow with C#",
+                "Monitor tests and improve stability and reliability",
+                "Increased test case coverage from under 30% to 60% in some modules",
+                "Collaborate with QA to determine priority areas and improve release time",
+                "Utilize Git and Github to perform pull requests",
+                "Perform code reviews on code from other test developers",
+                "Help improve Angular app to improve testability"
+            ]
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Cricut",
+            "startDate": "January 2020",
+            "endDate": "April 2020",
+            "responsibilities": [
+                "Work on microservices written in C#",
+                "Debug and troubleshoot issues related to pricing and subscriptions",
+                "Coordinate with data team to track problems with subscriptions and improve queries used to find problems",
+                "Issue refunds to customers in case of subscription failures",
+                "Use data tools to visualize and understand issues with services",
+                "Perform code reviews for other developers to ensure code quality"
+            ]
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Overland West",
+            "startDate": "December 2016",
+            "endDate": "December 2019",
+            "responsibilities": [
+                "Design RESTful microservices in C# to replace legacy systems",
+                "Implement authentication and authorization services using Oauth",
+                "Implement caching mechanisms to improve performance",
+                "Dockerize applications to assist with ease of deployments",
+                "Develop continuous integration pipelines to Azure cloud",
+                "Used MSSQL Server database",
+                "Develop web service to facilitate ordering vehicles",
+                "Perform code reviews for other developers to ensure code quality"
+            ]
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "MasterControl",
+            "startDate": "May 2015",
+            "endDate": "December 2015",
+            "responsibilities": [
+                "Remove inline CSS from web application",
+                "Assist with UI makeover",
+                "Verify and/or fix bugs in Coldfusion or Javascript"
+            ]
+        }
+    ]
+}
